@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/Booking" />
+    <file type="web" url="file://$PROJECT_DIR$/DiscoverService" />
     <file type="web" url="file://$PROJECT_DIR$/Flight" />
   </component>
   <component name="ProjectRootManager">
