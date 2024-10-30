@@ -1,0 +1,9 @@
+services:
+  mysql:
+    image: 'mysql:latest'
+    environment:
+      - 'MYSQL_ROOT_PASSWORD=avianka'
+      - 'MYSQL_DATABASE=dbBooking'
+      - 'MYSQL_PASSWORD=avianka'
+    ports:
+      - '3308:3306'
